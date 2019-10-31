@@ -1,0 +1,30 @@
+.footer {
+  background-color: #222222;
+  display: flex;
+  align-items: center;
+  color: white;
+  flex-direction: column;
+}
+
+.footer ul {
+  margin: 0 0 16px 0;
+  padding: 0 0 16px 0;
+  list-style: none;
+  color: white;
+  display: inline-flex;
+}
+
+.footer ul li a {
+  padding: 0 24px;
+  font-size: 56px;
+  color: #0052f7;
+}
+
+.footer ul li a:hover {
+  color: #001cf4;
+}
+
+.footer h2 {
+  margin: 0;
+  padding: 16px;
+}

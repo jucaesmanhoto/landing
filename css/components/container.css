@@ -1,0 +1,11 @@
+.container {
+  text-align: center;
+  margin: 0 auto;
+  width: 1000px;
+}
+
+.container h2 {
+  font-size: 36px;
+  margin: 16px 0 0 0;
+  padding: 16px;
+}
